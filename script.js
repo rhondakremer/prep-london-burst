@@ -12,5 +12,5 @@ const onImageClick = () => {
         pngImg.style.display = 'block';
         button.innerHTML = 'Back to ZPL';
     }
-    subtitle.innerHTML = "☠️";
+    subtitle.innerHTML = "RIP";
 }
