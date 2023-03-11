@@ -17,7 +17,8 @@
 }
 
 @media screen and (max-width: 500px) {
-    #picture-holder {
-        width: 100%;
+    .zpl-img {
+        max-width: 100vw;
+        max-height: auto;
     }
 }
