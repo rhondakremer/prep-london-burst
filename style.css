@@ -4,14 +4,15 @@
 
 #sad-zpl {
     display: none;
-}
+};
 
-#picture-holder {
-    width: 50%
+#zpl-button {
+    /* width: 30px; */
 }
 
 .zpl-img {
-    width: 100%;
+    border: 1px solid black;
+    max-height: 95vh;
 }
 
 @media screen and (max-width: 500px) {
