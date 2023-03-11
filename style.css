@@ -1,0 +1,21 @@
+#yay-png {
+    display: none;
+}
+
+#sad-zpl {
+    display: block;
+}
+
+#picture-holder {
+    width: 50%
+}
+
+.zpl-img {
+    width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+    #picture-holder {
+      width: 100%;
+    }
+  }
