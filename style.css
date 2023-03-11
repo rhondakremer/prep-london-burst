@@ -4,15 +4,16 @@
 
 #sad-zpl {
     display: none;
-};
+}
 
 #zpl-button {
-    /* width: 30px; */
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .zpl-img {
     border: 1px solid black;
-    max-height: 95vh;
+    max-height: 90vh;
 }
 
 @media screen and (max-width: 500px) {
