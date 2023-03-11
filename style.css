@@ -1,9 +1,9 @@
 #yay-png {
-    display: none;
+    display: block;
 }
 
 #sad-zpl {
-    display: block;
+    display: none;
 }
 
 #picture-holder {
@@ -16,6 +16,6 @@
 
 @media screen and (max-width: 500px) {
     #picture-holder {
-      width: 100%;
+        width: 100%;
     }
-  }
+}
